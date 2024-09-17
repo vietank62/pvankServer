@@ -1,0 +1,11 @@
+{
+  "name": "pvankserver",
+  "version": "1.0.0",
+  "description": "social network for pvankServer",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pham Viet Anh",
+  "license": "ISC"
+}
